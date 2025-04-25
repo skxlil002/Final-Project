@@ -27,7 +27,5 @@ To view or modify the PCB layout:
 3. Open `KiCad_Files/*.kicad_sch` for schematic review.
 
 ### **LaTeX Reports**
-Reports follow **IEEE formatting** and should be compiled using a LaTeX editor (e.g., Overleaf, TeXLive).
+Reports follow **IEEE formatting** and are compiled using a LaTeX editor.
 To compile:
-```bash
-pdflatex Report.tex
