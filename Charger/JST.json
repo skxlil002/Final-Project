@@ -1,0 +1,37 @@
+{
+  "head": {
+    "docType": "2",
+    "editorVersion": "6.5.48",
+    "x": 395,
+    "y": 300,
+    "c_para": {
+      "pre": "CN?",
+      "name": "B2B-PH-K-S(LF)(SN)",
+      "package": "CONN-TH_B2B-PH-K-S",
+      "Contributor": "LCSC",
+      "Supplier": "LCSC",
+      "Manufacturer": "JST",
+      "Manufacturer Part": "B2B-PH-K-S(LF)(SN)",
+      "Supplier Part": "C131337"
+    },
+    "puuid": "685bd04c33df492ab1ad332fe461c196",
+    "uuid": "4363dc679f85409d8170eaa85095a946",
+    "importFlag": 0,
+    "c_spiceCmd": null,
+    "hasIdFlag": true,
+    "utime": 1742582094
+  },
+  "canvas": "CA~1000~1000~#FFFFFF~yes~#CCCCCC~5~1000~1000~line~5~pixel~5~395~300",
+  "shape": [
+    "R~370~280~~~30~40~#880000~1~0~#EFEFEF~gge3~0~",
+    "P~show~1~1~420~290~0~gge4~0^^420~290^^M 420 290 h -20~#000000^^1~395~293~0~1~end~~~#000000^^1~405~289~0~1~start~~~#000000^^0~403~290^^0~M 400 287 L 397 290 L 400 293",
+    "P~show~1~2~420~310~0~gge11~0^^420~310^^M 420 310 h -20~#000000^^1~395~313~0~2~end~~~#000000^^1~405~309~0~2~start~~~#000000^^0~403~310^^0~M 400 307 L 397 310 L 400 313"
+  ],
+  "BBox": {
+    "x": 370,
+    "y": 279.7,
+    "width": 51,
+    "height": 40.3
+  },
+  "colors": {}
+}
